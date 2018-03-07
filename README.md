@@ -6,9 +6,9 @@ Reproducing "TimeNet: Pre-trained deep recurrent neural network for time series 
 
 ### **HOW TO RUN** 
 Get Time Series Data from <http://www.cs.ucr.edu/~eamonn/time_series_data/>   Or Run with your own data
-<br><br><br>
-
+<br>
 > TimeNet Project is based on XAI Project
+<br><br><br>
 
 <img src="http://xai.unist.ac.kr/static/img/logos/XAIC_logo.png" width="300" height="100">
 
